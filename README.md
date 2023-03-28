@@ -24,9 +24,12 @@ Should I include special caracthers?
 
 And based on that, a new password will be generated.
 
-![image](https://user-images.githubusercontent.com/108914238/224193790-1df0eaed-9193-4073-a36e-7339d1fb66c3.png)
+![image](https://user-images.githubusercontent.com/108914238/228109785-ecbd8922-9318-4e8d-8651-c3d676ee79dc.PNG)
+
 ![image](https://user-images.githubusercontent.com/108914238/228109297-182da2bc-a493-4262-b4cf-2e4f3596cd8f.PNG)
+
 ![image](https://user-images.githubusercontent.com/108914238/228109298-72d8922d-f99d-4b1d-9d38-829bd600da25.PNG)
+
 ![image](https://user-images.githubusercontent.com/108914238/228109300-2cda9ed0-9c1c-40e6-bdad-5f898940210b.PNG)
 
 
