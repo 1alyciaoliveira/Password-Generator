@@ -32,6 +32,7 @@ And based on that, a new password will be generated.
 
 ![image](https://user-images.githubusercontent.com/108914238/228109300-2cda9ed0-9c1c-40e6-bdad-5f898940210b.PNG)
 
+You can access the password generator using this link: https://1alyciaoliveira.github.io/Password-Generator/
 
 ## License
 
